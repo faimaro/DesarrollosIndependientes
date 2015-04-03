@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+  <head>
+    <title>Place searches</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      #map_canvas{
+            position: center;
+            height: 400px;
+            width: 700px;
+            border: 5px solid green;
+            vertical-align: center;
+
+        }
+    </style>
+     <script src="javascripts/angular.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true&libraries=places"></script>
+
+    <script src="javascripts/script.js"></script>
+  </head>
+  <body>
+    <my-maps id="map_canvas" ></my-maps>
+    
+  </body>
+</html>
