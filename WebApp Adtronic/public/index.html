@@ -1,0 +1,59 @@
+<html ng-app="myApp">
+    <head>
+        
+            <title>TEST angular con GooMap</title>
+            <script src="/javascripts/angular.min.js"></script>
+            <script src="/javascripts/script.js"></script>
+            
+            <script type="text/javascript"
+      src="http://maps.googleapis.com/maps/api/js?key=AIzaSyD9o5vCSaXbn-9XHgYG_TFOY68-lDWERjg&sensor=false">
+    </script>
+
+    <style >
+        #map_canvas{
+            position: center;
+            height: 400px;
+            width: 700px;
+            border: 5px solid green;
+            vertical-align: center;
+
+        }
+        button.on {
+            background-color: lightgreen;
+        }
+        body {
+            background-color: rgb(54, 65, 54);
+        }
+
+
+    </style>
+    </head>
+    <body >
+        
+        <my-maps id="map_canvas" ng-controller="ControllerCargarMarcas"></my-maps>
+        <!-- esto es un comentario 
+        <div ng-controller="ControllerZona">
+            <button ng-click="Zlacalera()">La calera</button>
+            <button ng-click="Zcarlospaz()">Carloz Paz</button>
+        </div>
+        -->
+        <div ng-controller="ControllerRubro">
+            <button ng-click="Gastronomia()" ng-class="{on:gastronomia}">Gastronomia</button>
+            <button ng-click="Hogar()" ng-class="{on:hogar}">Inmoviliaria</button>
+            <button ng-click="Entretenimiento()" ng-class="{on:entretenimiento}">Entretenimiento</button>
+            <button ng-click="Profecionales()" ng-class="{on:profecionales}">Alojamientos</button>
+            
+            
+            
+            
+        </div>
+    </body>
+
+</html>
+  
+ 
+  
+    
+  </body>
+    </body>
+</html>

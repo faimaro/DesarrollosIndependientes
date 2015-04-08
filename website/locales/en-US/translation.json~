@@ -1,0 +1,45 @@
+{
+  "app": {
+    "name": "i18next"
+  },
+
+	"nav": {
+		"who": "Who we are?",
+		"what": "About",
+		"contact": "Contact"
+		},
+
+	"intro": {
+		  "first": "INNOVATION",
+		  "firsttext": "Creativity, thinking different.",
+		  "second": "TECHNOLOGY",
+		  "secondtext": "Smart, advanced and accurate.",
+		  "third": "DESIGN",
+		  "thirdtext": "Friendly and intuitive interface."
+
+		 },
+
+	"ingari": {
+		  "what": "It is a company belonging the technology market, exclusively dedicated to advertise a commercial entity.",
+		  "obj": "Goals",
+		  "obj2": "Provide superior service to achieve high customer satisfaction.",
+		  "obj3": "Establish a bond of trust and quality service to our customers.",
+		  "vis": "Vision",
+		  "vis2": "Achieving a massive effectiveness of our service offering to the customer/user a useful and innovative mechanism."
+	
+		 },
+
+	"adtronic": {
+		     "what": "Adtronic is a massive and innovative service aimed at all companies, PyMes or particular business, whose main objective is to publicize the existential position of a business entity. For more information please",
+		     "link": "click here."
+		    },
+	
+	"contact": {
+		     "title": "Contact",
+		     "text": "Questions, explanations, demonstrations.",
+		     "nombre": "Name *",
+		     "tel": "Phone number *",
+		     "msj": "Message *",
+		     "send": "Send"
+		   }
+}

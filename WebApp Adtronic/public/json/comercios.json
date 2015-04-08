@@ -1,0 +1,42 @@
+[{
+    "name": "Ferreteros",
+    "type": "Carniceria",
+    "lat": -31.341965,  
+    "lng": -64.367245
+    },{
+    "name": "Ferre-Country",
+    "type": "Rotiseria",
+    "lat": -31.355379,  
+    "lng": -64.337633
+    },{
+    "name": "Tornillo Travieso",
+    "type": "Fastfood",
+    "lat": -31.417596,  
+    "lng": -64.492637
+    },{
+    "name": "Heladitoss",
+    "type": "Heladeria",
+    "lat": -31.423400,  
+    "lng": -64.496929
+    },{
+    "name": "La Grido",
+    "type": "Zapateria",
+    "lat": -31.360512, 
+    "lng": -64.352325
+    },{
+    "name": "Pizza Z",
+    "type": "Combustible",
+    "lat": -31.418500, 
+    "lng": -64.493072
+    },{
+    "name": "Pizzeria del centro",
+    "type": "Fiambreria",
+    "lat": -31.419664, 
+    "lng": -64.495625
+    },{
+    "name": "Bariloche",
+    "type": "Bar",
+    "lat": -31.352887,  
+    "lng": -64.356559
+}
+]

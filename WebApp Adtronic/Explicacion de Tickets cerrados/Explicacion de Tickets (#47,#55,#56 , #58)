@@ -1,0 +1,11 @@
+Tickets #55 y #47:
+Se genero una directiva en AngularJS llamada "myApp.directive("myMaps",function() {};" que determina un tag HTML para usarlo para contener el mapa.
+
+Ticket #58:
+Se definió el archivo "comercios.json" con una estructura determinada para contener todos los comercios del sistema. Las propiedades utilizadas hasta ahora son:"name,type,lat,lng"
+
+Tiecket #56:
+Se Programaron 3 controladores en AngularJS (controllerCargarMarcas,ControllerZona,ControllerRubro).Estos controladores se encargan de:
+-cargar todas las marcas en el mapa inicialmente no visibles.
+-contolar el centrado del mapa en funcion de la zona seleccionada.
+-hacer visibles o no las marcas en funcion de los rubros que se selecciono.

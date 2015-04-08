@@ -1,0 +1,45 @@
+{
+  "app": {
+    "name": "i18next"
+  },
+
+	"nav": {
+		"who": "¿Quienes somos?",
+		"what": "¿Que brindamos?",
+		"contact": "Contacto"
+		},
+
+	"intro": {
+		  "first": "INNOVACIÓN",
+		  "firsttext": "Creatividad, pensando diferente.",
+		  "second": "TECNOLOGÍA",
+		  "secondtext": "Inteligente, avanzada y precisa.",
+		  "third": "DISEÑO",
+		  "thirdtext": "Interfaz amigable e intuitiva."
+
+		 },
+
+	"ingari": {
+		  "what": "Es una empresa perteneciente al mercado tecnológico, con dedicación exclusiva al marketing publicitario de una entidad comercial.",
+		  "obj": "Objetivos",
+		  "obj2": "Lograr la prestación de un servicio inmejorable en el mercado.",
+		  "obj3": "Satisfacer las necesidades de nuestros clientes, logrando un lazo de confianza y calidad de servicio, pudiendo así crecer junto a nosotros. ",
+		  "vis": "Visión",
+		  "vis2": "Lograr una efectividad masiva de nuestro servicio brindando al cliente/usuario un mecanismo útil e innovador para el progreso del mismo. "
+	
+		 },
+
+	"adtronic": {
+		     "what": "Adtronic es un servicio publicitario masivo e innovador, dirigido a toda empresa, PyMe o negocio particular, cuyo principal objetivo es publicitar la posición existencial de una entidad comercial. Para más información haz",
+		     "link": "click aquí."
+		    },
+	
+	"contact": {
+		     "title": "Contacto",
+		     "text": "Preguntas, aclaraciones, demostraciones.",
+		     "nombre": "Nombre *",
+		     "tel": "Telefono *",
+		     "msj": "Mensaje *",
+		     "send": "Enviar"
+		   }
+}
